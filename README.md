@@ -1,6 +1,6 @@
 # My Movies List
 # Video Demo: [My Movies List Project](https://www.youtube.com/watch?v=FamFso-yVYA&ab_channel=AbdallahHadidi)
-# Live Demo : [My Movies List](http://ec2-3-65-26-177.eu-central-1.compute.amazonaws.com)
+# Live Demo : [My Movies List](http://hadidi-movies-list.herokuapp.com/)
 
 # Seeded Profiles :
 Usernames : user1@example.com, user2@example.com, user3@example.com, user4@example.com
